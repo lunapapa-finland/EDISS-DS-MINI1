@@ -1,5 +1,8 @@
 # Mini Project 1 – Where do I fly next?
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1PSNmawvwQ4e07AQNB06bQLNNuoTyDyfk?usp=sharing)
+
+
 ## Abstract
 The report presents a systematic approach to Exploratory Data Analysis (EDA) of flight data obtained from Online Travel Agent (OTA) websites such as Expedia, Momondo, and Kayak. Web scraping techniques are employed to collect comprehensive flight information, including prices, airlines, departure times, arrival times, layover cities, layover times, aircraft types, and trip durations. The collected dataset is cleaned and preprocessed for data quality and consistency. Python libraries, including Selenium, BeautifulSoup, Pandas, Seaborn, and Matplotlib, are utilized for web scraping, data manipulation, and visualization. The report also discusses real-time interactions with end users using Ipywidgets.
 
